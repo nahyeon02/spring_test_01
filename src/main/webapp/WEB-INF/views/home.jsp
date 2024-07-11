@@ -14,7 +14,7 @@
 
 $( document ).ready( function() {
    
-	//마스터브랜치 
+	//prj_a 브랜치
     
   } );
 	 
